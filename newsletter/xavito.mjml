@@ -1,29 +1,17 @@
 <mjml>
+  <mj-body>
 
-  <mj-head>
-
-    <mj-attributes>
-      <mj-text align="center" color="#994" />
-      <mj-section background-color="#fff" />
-    </mj-attributes>
-
-  </mj-head>
-
-  <mj-body background-color="#eee">
-    <mj-section>
-
+    <mj-section background-color="linear-gradient(to top, #ffffff 0%, #bfbfbf 100%)">
       <mj-column>
-        <mj-text>
-          First column
+        <mj-text align="center" font-style="Arial" font-size="25px" color="#5e74b5">
+          <strong> Boas práticas para a utilização de dispositivos móveis em viagem</strong>
         </mj-text>
       </mj-column>
-
-      <mj-column>
-        <mj-text>
-          Second column
-        </mj-text>
-      </mj-column>
-
     </mj-section>
-  </mj-body>
-</mjml>
+    
+    
+    <mj-section>
+    <mj-column>
+<mj-image width="200px" align="left" src="https://www.sgeconomia.gov.pt/upload/membro.id/imagens/i023551.png"></mj-image>
+    </mj-column>
+    </mj-section>

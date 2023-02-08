@@ -1,6 +1,5 @@
 <mjml>
   <mj-body>
-
     <mj-section background-color="linear-gradient(to top, #ffffff 0%, #bfbfbf 100%)">
       <mj-column>
         <mj-text align="center" font-style="Arial" font-size="25px" color="#5e74b5">
@@ -8,46 +7,28 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    
-    
-    <mj-section>
-    <mj-column>
-<mj-image width="600px" align="center" src="b.png"></mj-image>
-
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image width="600px" align="center" src="b.png"></mj-image>
     </mj-section>
-    
-    <mj-section background-color="#f0f0f0" >
+    <mj-section background-color="#f0f0f0">
       <mj-column width="600px">
         <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Segurança de dispositivos móveis durante viagens internacionais</strong></mj-text>
-        
         <mj-text color="#525252">O uso de dispositivos móveis como smartphones, computadores e tablets facilita a comunicação e a transferência de dados, mas também pode trazer riscos de segurança. Por isso, é importante que os usuários adotem comportamentos de proteção de informação sensível para evitar possíveis ameaças. Este manual apresenta regras para reduzir esses riscos, especialmente quando viajamos para o exterior.</mj-text>
         <mj-button background-color="#5E74B5" href="#">Saiba Mais</mj-button>
       </mj-column>
     </mj-section>
-      <mj-section background-color="white">
+    <mj-section background-color="white">
       <mj-column>
-        <mj-image width="600px" src="https://drive.google.com/uc?id=13DBxy08PyDMLPWz1lsCXXz9mMr9MS7sA"></mj-image>
+        <mj-image width="600px" src="a.png"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Certifique-se que mantém as suas Informações em
-Segurança!</strong></mj-text>
-        <mj-text font-family="Arial" color="#525252">Os seus equipamentos e os seus dados podem chamar a atenção de terceiros e,
-nesse sentido, os utilizadores devem ser cautelosos, independentemente das mudanças / limitações que essa cautela possa causar.
-        </mj-text>
+        <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Certifique-se que mantém as suas Informações em Segurança!</strong></mj-text>
+        <mj-text font-family="Arial" color="#525252">Os seus equipamentos e os seus dados podem chamar a atenção de terceiros e, nesse sentido, os utilizadores devem ser cautelosos, independentemente das mudanças / limitações que essa cautela possa causar. </mj-text>
         <mj-button background-color="#5E74B5" href="#">Saiba Mais</mj-button>
       </mj-column>
     </mj-section>
-      
     <mj-section background-color="#f0f0f0">
-      
     </mj-section>
-      
-    </mj-body>
-    </mjml>
-  
-  
-  
-  
-  
-  
-  
+  </mj-body>
+</mjml>

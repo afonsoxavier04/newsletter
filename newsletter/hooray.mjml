@@ -1,120 +1,94 @@
 <mjml>
   <mj-body>
     <mj-section background-color="#ffffff">
-
       <mj-column>
         <mj-text align="center" font-style="Arial" font-size="25px" color="#5e74b5">
           <strong> Boas práticas para a utilização de dispositivos móveis em viagem</strong>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section background-color="#f0f0f0">
-
       <mj-column width="600px">
-
         <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Segurança de dispositivos móveis durante viagens internacionais</strong></mj-text>
         <mj-text font-size="15px" line-height="20.5px" font-family="Arial" color="#525252">O uso de dispositivos móveis como smartphones, computadores e tablets facilita a comunicação e a transferência de dados, mas também pode trazer riscos de segurança. Por isso, é importante que os usuários adotem comportamentos de proteção de informação sensível para evitar possíveis ameaças. Este manual apresenta regras para reduzir esses riscos, especialmente quando viajamos para o exterior.</mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section background-color="white">
-
       <mj-column>
         <mj-image width="600px" src="a.png"></mj-image>
       </mj-column>
-
       <mj-column>
         <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Certifique-se que mantém as suas Informações em Segurança!</strong></mj-text>
         <mj-text font-size="15px" line-height="20.5px" font-family="Arial" color="#525252">Os seus equipamentos e os seus dados podem chamar a atenção de terceiros e, nesse sentido, os utilizadores devem ser cautelosos, independentemente das mudanças / limitações que essa cautela possa causar. </mj-text>
-        <mj-button background-color="#5E74B5" href="https://www.cncs.gov.pt/pt/conselhos-aos-viajantes/">Saiba Mais</mj-button>
       </mj-column>
-
     </mj-section>
-
+    <mj-section background-color="#f8f8f8">
+      <mj-column>
+        <mj-text align="center" font-style="Arial" font-size="25px" color="#5e74b5">
+          <strong>Algumas regras para antes de sair do país</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>01</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px" >
-         Mantenha-se informado sobre os controlos nas fronteiras e importação ou  uso de criptografia.
-        </mj-text>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Mantenha-se informado sobre os controlos nas fronteiras e importação ou uso de criptografia. </mj-text>
       </mj-column>
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>02</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">	
-        Cuidado a informação contida nos equipamentos que vai utilizar na viagem.
-        </mj-text>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Cuidado a informação contida nos equipamentos que vai utilizar na viagem. </mj-text>
       </mj-column>
     </mj-section>
-    
-    	<mj-section background-color="#f8f8f8" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
+    <mj-section background-color="#f8f8f8" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>03</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">
-         Faça backup dos seus dados e deixe o backup num local seguro.
-        </mj-text>
-
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Faça backup dos seus dados e deixe o backup num local seguro. </mj-text>
       </mj-column>
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>04</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">
-        Evite viajar com dados sensíveis.
-        </mj-text>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Evite viajar com dados sensíveis. </mj-text>
       </mj-column>
-    	
     </mj-section>
-        	<mj-section background-color="#ffffff" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
+    <mj-section background-color="#ffffff" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>05</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">
-        Utilize uma película <i>anti-spy</i> nos seus dispositivos para mais privacidade
-        </mj-text>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Utilize uma película <i>anti-spy</i> nos seus dispositivos para mais privacidade </mj-text>
       </mj-column>
       <mj-column padding="0">
         <mj-text align="center" color="#5e74b5" font-size="45px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
           <strong>06</strong>
         </mj-text>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">
-        Marque o seu equipamento com um sinal distintivo.
-        </mj-text>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Marque o seu equipamento com um sinal distintivo. </mj-text>
       </mj-column>
     </mj-section>
-    
-       <mj-section background-color="#f8f8f8" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
-        </mj-text>
-<mj-column>
-        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px">
-        Para para mais informações sobre as normas de segurança, clique no botão abaixo "Saiba Mais" e será imediatamente redirecionado para o nosso site onde terá todas as informações que procura
-        </mj-text>
+    <mj-section background-color="#f8f8f8" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
+      </mj-text>
+      <mj-column>
+        <mj-text align="center" color="#14213D" font-size="15px" padding="10px" line-height="24.5px"> Para para mais informações sobre as normas de segurança, clique no botão abaixo "Saiba Mais" e será imediatamente redirecionado para o nosso site onde terá todas as informações que procura </mj-text>
         <mj-button background-color="#5e74b5" href="https://www.cncs.gov.pt/pt/conselhos-aos-viajantes/#qAntes">Saiba mais</mj-button>
       </mj-column>
     </mj-section>
-
     <mj-section background-color="#ffffff">
-    <mj-column>
-      <mj-image width="600px" src="7.png"></mj-image>
-    </mj-column>
+      <mj-column>
+        <mj-image width="600px" src="7.png"></mj-image>
+      </mj-column>
     </mj-section>
-
     <mj-section background-color="#ffffff" padding="0px 0 10px 0px">
       <mj-column>
         <mj-text align="center" font-size="12px">
-        <strong>RUA da REPÚBLICA 2670 - 468 LOURES <br/> Tel.+351 21 982 71 10 <br/> Email. esjaloures@esjaloures.org</strong>
+          <strong>RUA da REPÚBLICA 2670 - 468 LOURES <br /> Tel.+351 21 982 71 10 <br /> Email. esjaloures@esjaloures.org</strong>
         </mj-text>
       </mj-column>
     </mj-section>
-    
-    
-
   </mj-body>
 </mjml>

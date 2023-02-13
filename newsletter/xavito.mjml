@@ -20,8 +20,7 @@
 
         <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Segurança de dispositivos móveis durante viagens internacionais</strong></mj-text>
         <mj-text font-size="15px" line-height="20.5px" font-family="Arial" color="#525252">O uso de dispositivos móveis como smartphones, computadores e tablets facilita a comunicação e a transferência de dados, mas também pode trazer riscos de segurança. Por isso, é importante que os usuários adotem comportamentos de proteção de informação sensível para evitar possíveis ameaças. Este manual apresenta regras para reduzir esses riscos, especialmente quando viajamos para o exterior.</mj-text>
-        <mj-button background-color="#5E74B5" href="#">Saiba Mais</mj-button>
-
+      
       </mj-column>
     </mj-section>
 
@@ -34,7 +33,7 @@
       <mj-column>
         <mj-text font-size="20px" font-family="Arial" color="#5e74b5"><strong>Certifique-se que mantém as suas Informações em Segurança!</strong></mj-text>
         <mj-text font-size="15px" line-height="20.5px" font-family="Arial" color="#525252">Os seus equipamentos e os seus dados podem chamar a atenção de terceiros e, nesse sentido, os utilizadores devem ser cautelosos, independentemente das mudanças / limitações que essa cautela possa causar. </mj-text>
-        <mj-button background-color="#5E74B5" href="#">Saiba Mais</mj-button>
+        
       </mj-column>
 
     </mj-section>
